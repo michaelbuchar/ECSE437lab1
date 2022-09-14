@@ -1,4 +1,5 @@
 //Author: Michael Buchar - 260831528
+//michael.buchar@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
